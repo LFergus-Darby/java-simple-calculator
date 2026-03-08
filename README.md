@@ -16,6 +16,7 @@ A basic Java calculator that allows the user to perform:
 
 ## Example
 
+```
 Enter first number: 9  
 Enter second number: 23  
 
@@ -28,6 +29,7 @@ Choose operation:
 1
 
 Result: 32.0
+```
 
 ## Author
 
